@@ -38,3 +38,6 @@ build/
 
 *.sqlite3
 *.db
+*.pdf
+test_dataset.csv
+train_dataset.csv
